@@ -1,0 +1,28 @@
+{
+  "name": "reactjs_with_chaiaurcode",
+  "version": "1.0.0",
+  "description": "here i learn about react js\r lets start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderRohit620/reactJs_with_chaiAurCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/coderRohit620/reactJs_with_chaiAurCode/issues"
+  },
+  "homepage": "https://github.com/coderRohit620/reactJs_with_chaiAurCode#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.0.1"
+  }
+}
