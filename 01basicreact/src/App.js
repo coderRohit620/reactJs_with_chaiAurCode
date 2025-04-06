@@ -3,7 +3,7 @@
 
 function App() {
   return (
-    <h1>chai aur React</h1>
+    <h1>chai aur React | RR</h1>
   );
 }
 
