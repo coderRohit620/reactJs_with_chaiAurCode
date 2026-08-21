@@ -3,11 +3,15 @@
 // import viteLogo from "./assets/vite.svg";
 // import heroImg from "./assets/hero.png";
 import "./App.css";
-import Card from "./components/Card";
+import Card from "./components/Card.jsx";
 
 function App() {
   // const [count, setCount] = useState(0);
-
+  let myobj = {
+    username:"Rohit",
+    age:"21"
+  }
+  let newArr = [1,2,3]
   return (
     <>
       <h1 className="bg-green-400 text-center p-4 rounded-2xl mb-5">
